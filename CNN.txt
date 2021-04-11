@@ -1,0 +1,5 @@
+﻿لينك اول مثال
+https://www.kaggle.com/ahmedelmasry22/notebookafa40678bd
+
+لينك تاني مثال
+https://www.kaggle.com/yassineghouzam/introduction-to-cnn-keras-0-997-top-6
